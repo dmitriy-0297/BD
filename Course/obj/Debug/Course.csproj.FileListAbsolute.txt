@@ -1,0 +1,15 @@
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\bin\Debug\Course.exe.config
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\bin\Debug\Course.exe
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\bin\Debug\Course.pdb
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.MainForm.resources
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Properties.Resources.resources
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.csproj.GenerateResource.Cache
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.exe
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.pdb
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Customer.resources
+c:\users\gdk17\onedrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Director.resources
+C:\Users\gdk17\OneDrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Error.resources
+C:\Users\gdk17\OneDrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Seller.resources
+C:\Users\gdk17\OneDrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.FormErrorGoods.resources
+C:\Users\gdk17\OneDrive\документы\visual studio 2017\Projects\Course\Course\obj\Debug\Course.Supplier.resources
